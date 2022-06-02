@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alex
+- 👀 I’m interested in web-development
+- 🌱 I’m currently learning JavaScript, React and PHP
+- 📫 How to reach me? - https://t.me/Godchane0325
