@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Alex
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning JavaScript, React and PHP
-- 📫 How to reach me? - https://t.me/Godchane0325
+<h1>Hi, I’m Alex</h1>
+<ul>
+  <li>I’m interested in web-development and UX/UI design</li>
+  <li>I’m currently learning React and PHP</li>
+  <li>I’m know HTML5, CSS3, JavaScript</li>
+</ul>
