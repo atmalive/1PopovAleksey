@@ -2,8 +2,8 @@
 
 ### 💻 &nbsp;About Me
 
-💫 &nbsp;I’m interested in web-development and UX/UI design\
-📖 &nbsp;I’m currently learning Typescript\
+💫 &nbsp;I’m interested in web-development and UX/UI design.\
+📖 &nbsp;I’m currently learning Node.js, Typescript, MongoDB.\
 🌱 &nbsp;Most of all, I like to make interfaces that will be convenient for users to use.\
 🔎 &nbsp;Find out how to do it better, easier and most importantly faster.
 
