@@ -28,7 +28,7 @@
 
 <p align="center">
 <a href="https://github.com/1PopovAleksey">
-  <img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1PopovAleksey&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1PopovAleksey&layout=compact&langs_count=8&theme=dark"/>
+  <img height="100%" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1PopovAleksey&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100%" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1PopovAleksey&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
