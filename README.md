@@ -3,7 +3,7 @@
 ### 💻 &nbsp;About Me
 
 💫 &nbsp;I’m interested in web-development and UX/UI design.\
-📖 &nbsp;I’m currently learning Jest, GraphGL.\
+📖 &nbsp;I’m currently learning Jest, GraphQL.\
 🌱 &nbsp;Most of all, I like to make interfaces that will be convenient for users to use.\
 🔎 &nbsp;Find out how to do it better, easier and most importantly faster.
 
