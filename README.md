@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=80&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Aleksey;I+🖤+Front+End;My+experience+>+1+years+in+programming;)](https://git.io/typing-svg)
-<br/><br/>
+
+<br/>
+
 <!-- <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=1PopovAleksey&theme=react-dark&hide_border=true&area=true" />
 </div> -->
-<div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=1PopovAleksey&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="1PopovAleksey github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1PopovAleksey&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=6" />
-</div>
+
 <!-- <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=1PopovAleksey&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="1PopovAleksey" /></div> -->
-<br/>
 
 ### Tech Stack:
 
@@ -49,4 +49,13 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+### GitHub stats: 
+
+<br/>
+
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=1PopovAleksey&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="1PopovAleksey github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1PopovAleksey&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=6" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=80&section=footer"/>
