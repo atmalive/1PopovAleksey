@@ -2,7 +2,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Aleksey;I+🖤+Front+End;My+experience+>+1+years+in+programming;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Aleksey;I+🖤+Front+End;My+experience+>+2+years+in+programming;)](https://git.io/typing-svg)
 
 <br/>
 
